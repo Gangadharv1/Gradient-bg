@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(to bottom right, #0f010f, #00695C);
+  color: white;
+}
+
+.content {
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 50px;
+}
